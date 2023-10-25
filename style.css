@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.firstDiv{
+    height: 85vh;
+    width: 70%;
+    background-image: url(South\ Tyrol.jpeg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+
+.secondAside{
+    height: 85vh;
+    width: 30%;
+}
